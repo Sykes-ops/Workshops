@@ -1,0 +1,17 @@
+day: FREITAG
+date: 06.08.21
+time: 20:00
+ 
+#TEAM LINKS (sortiert top, jngl, mid, adc, supp)
+N3xoTiX
+Sun Díego
+osjel
+Sturmle
+Powerpig
+ 
+#TEAM RECHTS (sortiert top, jngl, mid, adc, supp)
+Synthetix
+fubuki22
+77tobias77
+Elianer
+SmiIing

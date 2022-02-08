@@ -1,0 +1,17 @@
+day: SONNTAG
+date: 08.08.21
+time: 17:00
+ 
+#TEAM LINKS (sortiert top, jngl, mid, adc, supp)
+Metamatze
+FiçkDićhWal
+Synthetix
+SmiIing
+Comedy Gott
+ 
+#TEAM RECHTS (sortiert top, jngl, mid, adc, supp)
+torseen
+Zed Type R
+RandomAccount216
+Nicknaaack
+Drizzell

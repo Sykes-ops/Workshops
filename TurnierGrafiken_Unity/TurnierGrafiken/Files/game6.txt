@@ -1,0 +1,20 @@
+day: SONNTAG
+date: 08.08.21
+time: 20:00
+ 
+#TEAM LINKS (sortiert top, jngl, mid, adc, supp)
+SKA reptilezero
+LyRiix
+Sisimo
+O White O
+Mythtica
+
+#TEAM RECHTS (sortiert top, jngl, mid, adc, supp)
+IKinnCrimsonI
+MonsterVo1com
+GHR Reaktor
+Elianer
+TheDrunkenMaster
+
+
+

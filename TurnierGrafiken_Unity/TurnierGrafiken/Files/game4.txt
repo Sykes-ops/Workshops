@@ -1,0 +1,17 @@
+day: SAMSTAG
+date: 07.08.21
+time: 20:00
+ 
+#TEAM LINKS (sortiert top, jngl, mid, adc, supp)
+Sunaryt
+Niklaf
+2ndbestLuxUlm
+Foxer456
+GHR Reaktor
+ 
+#TEAM RECHTS (sortiert top, jngl, mid, adc, supp)
+Powerpig
+FiçkDićhWal
+AngelinaNatascha
+Sturmle
+IKinnCrimsonI
