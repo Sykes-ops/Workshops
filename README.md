@@ -1,1 +1,1 @@
-# Workshops
+# YAMM - Workshops
